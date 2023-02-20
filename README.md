@@ -1,2 +1,2 @@
 # goproject
-temp project
+this is my first go project
